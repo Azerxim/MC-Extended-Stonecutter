@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:prismarine_wall"
+  },
+  "result": "minecraft:prismarine",
+  "group": "cutting_blocks",
+  "count": 1
+}

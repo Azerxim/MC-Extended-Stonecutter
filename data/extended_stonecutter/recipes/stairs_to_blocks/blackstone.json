@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:blackstone_stairs"
+  },
+  "result": "minecraft:blackstone",
+  "group": "cutting_blocks",
+  "count": 1
+}

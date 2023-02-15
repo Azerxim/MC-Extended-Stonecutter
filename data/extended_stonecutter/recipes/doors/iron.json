@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": "minecraft:iron_door",
+  "group": "cutting_doors",
+  "count": 1
+}

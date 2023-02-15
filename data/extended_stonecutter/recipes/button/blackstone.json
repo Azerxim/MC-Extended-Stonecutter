@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:blackstone"
+  },
+  "result": "minecraft:polished_blackstone_button",
+  "group": "cutting_buttons",
+  "count": 1
+}

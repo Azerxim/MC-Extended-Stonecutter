@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+    "item": "minecraft:pearlescent_froglight"
+    },
+		{
+    "item": "minecraft:ochre_froglight"
+    }
+  ],
+  "result": "minecraft:verdant_froglight",
+  "group": "cutting_froglights",
+  "count": 1
+}

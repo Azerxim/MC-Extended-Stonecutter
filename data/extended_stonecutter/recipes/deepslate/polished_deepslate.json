@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    {
+    "item": "minecraft:deepslate_bricks"
+    },
+    {
+    "item": "minecraft:deepslate_tiles"
+    }
+  ],
+  "result": "minecraft:polished_deepslate",
+  "group": "cutting_blocks",
+  "count": 1
+}
