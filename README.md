@@ -1,5 +1,5 @@
 # Extended Stonecutter
 
-Version: v6
+Version: v3
 
 Minecraft: 1.19 > 1.19.3
