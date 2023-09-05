@@ -1,6 +1,10 @@
 {
    "pack":{
       "pack_format": 10,
-      "description": "Extended Stonecutter MC 1.19.3"
+      "supported_formats": {
+         "min_inclusive": 10,
+         "max_inclusive": 17
+      },
+      "description": "Extended Stonecutter MC 1.19 > 1.20.2"
    }
 }
