@@ -1,2 +1,3 @@
 *.zip
 /archives
+.vscode/settings.json
