@@ -1,8 +1,13 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:weathered_cut_copper"
-  },
+  "ingredient": [
+    {
+      "item": "minecraft:weathered_cut_copper"
+    },
+    {
+      "item": "minecraft:weathered_chiseled_copper"
+    }
+  ],
   "result": "minecraft:weathered_copper",
   "group": "cutting_blocks",
   "count": 1

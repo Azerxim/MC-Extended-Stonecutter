@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:waxed_oxidized_copper"
+  },
+  "result": "minecraft:waxed_oxidized_copper_door",
+  "group": "cutting_doors",
+  "count": 1
+}
