@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": 
+  {
+    "item": "minecraft:tuff_bricks"
+  },
+  "result": "minecraft:polished_tuff",
+  "group": "cutting_blocks",
+  "count": 1
+}
