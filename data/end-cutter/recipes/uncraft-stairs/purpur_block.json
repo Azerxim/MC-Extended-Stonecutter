@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:purpur_stairs"
   },
-  "result": "minecraft:purpur_block",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:purpur_block",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

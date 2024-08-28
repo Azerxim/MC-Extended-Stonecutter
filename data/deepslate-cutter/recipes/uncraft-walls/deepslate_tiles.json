@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:deepslate_tile_wall"
   },
-  "result": "minecraft:deepslate_tiles",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:deepslate_tiles",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

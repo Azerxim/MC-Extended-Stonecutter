@@ -14,7 +14,9 @@
     "item": "minecraft:tnt_minecart"
     }
   ],
-  "result": "minecraft:minecart",
-  "group": "cutting_minecarts",
-  "count": 1
+  "result": {
+    "id": "minecraft:minecart",
+    "count": 1
+  },
+  "group": "cutting_minecarts"
 }

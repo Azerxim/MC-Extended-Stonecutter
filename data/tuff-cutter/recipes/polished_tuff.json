@@ -4,7 +4,9 @@
   {
     "item": "minecraft:tuff_bricks"
   },
-  "result": "minecraft:polished_tuff",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:polished_tuff",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

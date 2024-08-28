@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:red_nether_brick_wall"
   },
-  "result": "minecraft:red_nether_bricks",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:red_nether_bricks",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

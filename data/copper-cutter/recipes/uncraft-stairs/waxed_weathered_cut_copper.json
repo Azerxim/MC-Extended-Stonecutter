@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:waxed_weathered_cut_copper_stairs"
   },
-  "result": "minecraft:waxed_weathered_cut_copper",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:waxed_weathered_cut_copper",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

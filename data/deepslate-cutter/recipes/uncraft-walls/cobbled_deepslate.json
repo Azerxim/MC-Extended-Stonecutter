@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:cobbled_deepslate_wall"
   },
-  "result": "minecraft:cobbled_deepslate",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:cobbled_deepslate",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

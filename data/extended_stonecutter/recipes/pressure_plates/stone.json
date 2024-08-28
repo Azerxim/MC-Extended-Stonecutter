@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:stone"
   },
-  "result": "minecraft:stone_pressure_plate",
-  "group": "cutting_pressure_plates",
-  "count": 1
+  "result": {
+    "id": "minecraft:stone_pressure_plate",
+    "count": 1
+  },
+  "group": "cutting_pressure_plates"
 }

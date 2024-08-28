@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:waxed_copper_block"
   },
-  "result": "minecraft:waxed_copper_trapdoor",
-  "group": "cutting_trapdoors",
-  "count": 1
+  "result": {
+    "id": "minecraft:waxed_copper_trapdoor",
+    "count": 1
+  },
+  "group": "cutting_trapdoors"
 }

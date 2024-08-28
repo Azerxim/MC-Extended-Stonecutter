@@ -8,7 +8,9 @@
     "item": "minecraft:deepslate_tiles"
     }
   ],
-  "result": "minecraft:polished_deepslate",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:polished_deepslate",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

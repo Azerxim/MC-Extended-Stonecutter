@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:stone"
   },
-  "result": "minecraft:stone_button",
-  "group": "cutting_buttons",
-  "count": 1
+  "result": {
+    "id": "minecraft:stone_button",
+    "count": 1
+  },
+  "group": "cutting_buttons"
 }

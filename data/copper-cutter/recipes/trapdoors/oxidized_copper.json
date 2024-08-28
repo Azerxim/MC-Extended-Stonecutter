@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:oxidized_copper"
   },
-  "result": "minecraft:oxidized_copper_trapdoor",
-  "group": "cutting_trapdoors",
-  "count": 1
+  "result": {
+    "id": "minecraft:oxidized_copper_trapdoor",
+    "count": 1
+  },
+  "group": "cutting_trapdoors"
 }

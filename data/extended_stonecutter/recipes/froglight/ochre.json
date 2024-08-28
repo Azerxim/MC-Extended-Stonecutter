@@ -8,7 +8,9 @@
     "item": "minecraft:pearlescent_froglight"
     }
   ],
-  "result": "minecraft:ochre_froglight",
-  "group": "cutting_froglights",
-  "count": 1
+  "result": {
+    "id": "minecraft:ochre_froglight",
+    "count": 1
+  },
+  "group": "cutting_froglights"
 }

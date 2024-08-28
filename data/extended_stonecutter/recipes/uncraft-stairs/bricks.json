@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:brick_stairs"
   },
-  "result": "minecraft:bricks",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:bricks",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

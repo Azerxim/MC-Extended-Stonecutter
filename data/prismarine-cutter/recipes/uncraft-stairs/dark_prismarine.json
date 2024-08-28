@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:dark_prismarine_stairs"
   },
-  "result": "minecraft:dark_prismarine",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:dark_prismarine",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

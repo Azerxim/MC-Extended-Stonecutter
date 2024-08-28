@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:andesite_wall"
   },
-  "result": "minecraft:andesite",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:andesite",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

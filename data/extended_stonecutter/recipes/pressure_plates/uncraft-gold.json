@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:light_weighted_pressure_plate"
   },
-  "result": "minecraft:gold_ingot",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:gold_ingot",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:iron_ingot"
   },
-  "result": "minecraft:iron_trapdoor",
-  "group": "cutting_trapdoors",
-  "count": 1
+  "result": {
+    "id": "minecraft:iron_trapdoor",
+    "count": 1
+  },
+  "group": "cutting_trapdoors"
 }

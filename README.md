@@ -5,7 +5,7 @@
 
 Version: 4.0
 
-Minecraft: 1.20 > 1.21
+Minecraft: 1.21
 
 --------------------------------------------
 # English
@@ -43,8 +43,6 @@ Prise en charge des minecarts, lumières de grenouille et de la boue.
 ## Tuff (reverse cutting)
 
 ![tuff-cutter](https://raw.githubusercontent.com/Azerxim/MC-Extended-Stonecutter/main/images/tuff.png)
-
-In MC 1.21
 
 ## End (reverse cutting)
 

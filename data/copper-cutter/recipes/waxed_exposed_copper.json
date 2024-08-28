@@ -8,7 +8,9 @@
       "item": "minecraft:waxed_exposed_chiseled_copper"
     }
   ],
-  "result": "minecraft:waxed_exposed_copper",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:waxed_exposed_copper",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

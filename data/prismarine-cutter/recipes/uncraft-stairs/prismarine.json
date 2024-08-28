@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:prismarine_stairs"
   },
-  "result": "minecraft:prismarine",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:prismarine",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

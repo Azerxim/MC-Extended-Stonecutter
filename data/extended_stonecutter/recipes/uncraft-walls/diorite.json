@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:diorite_wall"
   },
-  "result": "minecraft:diorite",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:diorite",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

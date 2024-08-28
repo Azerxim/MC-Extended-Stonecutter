@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:quartz_stairs"
   },
-  "result": "minecraft:quartz_block",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:quartz_block",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }

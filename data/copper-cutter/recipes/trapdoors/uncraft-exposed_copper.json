@@ -3,7 +3,9 @@
   "ingredient": {
     "item": "minecraft:exposed_copper_trapdoor"
   },
-  "result": "minecraft:exposed_copper",
-  "group": "cutting_blocks",
-  "count": 1
+  "result": {
+    "id": "minecraft:exposed_copper",
+    "count": 1
+  },
+  "group": "cutting_blocks"
 }
