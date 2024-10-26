@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:mud_bricks",
+    "minecraft:mud_brick_stairs",
+    "minecraft:mud_brick_wall"
+  ],
+  "result": {
+    "id": "minecraft:packed_mud",
+    "count": 1
+  },
+  "group": "cutting_blocks"
+}

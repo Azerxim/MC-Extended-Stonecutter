@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:weathered_copper_door",
+  "result": {
+    "id": "minecraft:weathered_copper",
+    "count": 1
+  },
+  "group": "cutting_blocks"
+}

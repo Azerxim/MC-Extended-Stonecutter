@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:cobbled_deepslate_wall",
+  "result": {
+    "id": "minecraft:cobbled_deepslate",
+    "count": 1
+  },
+  "group": "cutting_blocks"
+}

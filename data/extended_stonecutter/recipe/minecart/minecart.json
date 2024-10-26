@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:chest_minecart",
+    "minecraft:furnace_minecart",
+    "minecraft:hopper_minecart",
+    "minecraft:tnt_minecart"
+  ],
+  "result": {
+    "id": "minecraft:minecart",
+    "count": 1
+  },
+  "group": "cutting_minecarts"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shaped",
+  "pattern": ["##"],
+  "key": {
+    "#": "minecraft:dark_prismarine_slab"
+  },
+  "result": {
+    "id": "minecraft:dark_prismarine",
+    "count": 1
+  },
+  "group": "slabs_uncraftable"
+}

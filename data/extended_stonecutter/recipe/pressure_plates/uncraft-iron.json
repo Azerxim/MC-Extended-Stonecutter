@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:heavy_weighted_pressure_plate",
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 1
+  },
+  "group": "cutting_blocks"
+}
