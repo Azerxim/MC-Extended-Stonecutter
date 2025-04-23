@@ -3,9 +3,9 @@
 
 # Extended Stonecutter
 
-Version: 4.0
+Version: 4.1
 
-Minecraft: 1.21
+Minecraft: 1.21.2 - 1.21.5
 
 --------------------------------------------
 # English
@@ -58,5 +58,3 @@ Prise en charge des minecarts, lumières de grenouille et de la boue.
 
 ![froglight](https://raw.githubusercontent.com/Azerxim/MC-Extended-Stonecutter/main/images/froglight.png)
 
---------------------------------------------
-[![Spinelle Galaxie](https://dl.topazdev.fr/stock/images/web/spinelle_galaxie.png)](https://spinelle.eu/minecraft/)
